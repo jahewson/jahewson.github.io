@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John A. Hewson</title>
+    <title>Home on John A. Hewson</title>
     <link>http://jahewson.com/</link>
-    <description>Recent content on John A. Hewson</description>
+    <description>Recent content in Home on John A. Hewson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="http://jahewson.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Home</title>
-      <link>http://jahewson.com/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jahewson.com/posts/my-first-post/</guid>
-      <description>John Hewson Computer Scientist &amp; Software Engineer         (Co-)Founder  Inkwell (2016) Web-based scientific and technical documents. Biblific (2014–2016) Academic paper management and mining. BitFactory (2006–2007) User-mode virtualization for packaging .NET apps.  Projects  elm-graphql Compiles type safe GraphQL queries to Elm. apache/pdfbox PDF library in Java. I&amp;rsquo;m a PMC member and contributor. confsolve Configuration solver for datacenter problems (OCaml, my PhD project).</description>
-    </item>
     
   </channel>
 </rss>
