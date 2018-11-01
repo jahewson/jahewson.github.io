@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John A. Hewson</title>
-    <link>http://jahewson.com/</link>
-    <description>Recent content on John A. Hewson</description>
+    <title>Posts on John A. Hewson</title>
+    <link>http://jahewson.com/posts/</link>
+    <description>Recent content in Posts on John A. Hewson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://jahewson.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jahewson.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

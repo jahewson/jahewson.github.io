@@ -8,7 +8,16 @@
   </url>
   
   <url>
+    <loc>http://jahewson.com/posts/my-first-post/</loc>
+  </url>
+  
+  <url>
     <loc>http://jahewson.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jahewson.com/posts/</loc>
     <priority>0</priority>
   </url>
   
