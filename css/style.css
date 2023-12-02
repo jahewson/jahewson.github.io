@@ -158,6 +158,14 @@ a::after {
   vertical-align: 3px;
 }
 
+a.internal {
+  text-decoration: underline;
+}
+
+a.internal::after {
+  display: none;
+}
+
 a.hdr::after {
   display: none;
 }
